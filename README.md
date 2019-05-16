@@ -4,6 +4,10 @@ Author: Simon Thornewill von Essen
 
 Date: 2018-02-24
 
+## Note
+
+I am not finishing this repo because the book becomes hard to follow after chapter 5.
+
 ## Description
 
 I am trying to learn more about probabilistic programming and bayesian inference. Towards that end, I am reading the book "Think Bayes".
